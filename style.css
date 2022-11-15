@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+}
+.first_section {
+    color: green;
+    font: 14px;
+    padding: 20px;
+    margin: 5px;
+    border: 1px solid black;
+}
+.second_section {
+    color: red;
+    font: 14px;
+    padding: 20px;
+    margin: 5px;
+    border: 1px solid black;
+}
+.third_section {
+    color: blue;
+    font: 14px;
+    padding: 20px;
+    margin: 5px;
+    border: 1px solid black;
+}
